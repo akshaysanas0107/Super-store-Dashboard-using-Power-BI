@@ -1,5 +1,7 @@
 # Super-store-Dashboard-using-Power-BI
 
+Live Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMGM2NjI4NjAtMmJlYi00ZDAwLTg5YTMtYWQwNWVkZTNhY2VlIiwidCI6ImEyN2Y2YjZiLWRjMjgtNDhjMi1hMTM4LWRkZjBmMTE0NTVmMSIsImMiOjEwfQ%3D%3D
+
 The Power BI dashboard you provided shows a summary of Superstore sales data. It includes the following components:
 
 Superstore Sales Report title at the top
